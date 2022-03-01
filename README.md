@@ -49,6 +49,12 @@ to import the model, run
 ```
 
 
+## Model Parameters 
+
+The total number of parameters of the model are 23,900,449
+![image](https://user-images.githubusercontent.com/97322648/156189651-32af3ecc-c5be-43aa-aca8-724f4151c855.png)
+
+
 
 ## Result
 
