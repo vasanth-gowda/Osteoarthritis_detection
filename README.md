@@ -46,13 +46,6 @@ to import the model, run
   from tensorflow.keras.applications import InceptionV3
 ```
 
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run deploy
-```
 
 
 ## Result
