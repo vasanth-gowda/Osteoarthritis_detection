@@ -6,10 +6,10 @@ An orthopaedist is a medical doctor specializing in diagnosing and treating diso
 Osteoarthritis : Osteoarthritis, commonly known as wear-and-tear arthritis, is a condition in which the natural cushioning between joints -- cartilage -- wears away. When this happens, the bones of the joints rub more closely against one another with less of the shock-absorbing benefits of cartilage. The rubbing results in pain, swelling, stiffness, decreased ability to move, and sometimes the formation of bone spurs.
 
 
-![Healthy joint](https://user-images.githubusercontent.com/97322648/156171347-879f1217-d3c4-44d7-8097-3085a50dc155.png)
+![Healthy joint](https://user-images.githubusercontent.com/97322648/156171347-879f1217-d3c4-44d7-8097-3085a50dc155.png)  
 **Healthy Knee Joint**
 
-![osteoarthritis](https://user-images.githubusercontent.com/97322648/156171513-9d98472d-824b-4f2e-9057-1598603f1789.png)
+![osteoarthritis](https://user-images.githubusercontent.com/97322648/156171513-9d98472d-824b-4f2e-9057-1598603f1789.png)  
 **Osteoarthritis Joint**
 ## Dataset Description
 
@@ -18,6 +18,8 @@ The Dataset contains three folders
 * Test (845 images),  
 * Train (2350 images),   
 * Valid (641 images),  
+
+
 Each of these folders has two folders  
 
 * **Test**  
